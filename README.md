@@ -1,4 +1,14 @@
 # Getting Started with Create React App
+Hey bro I just make sample example of pass the data with class component and functional commponent 
+check App.js and App1.js
+have fun 
+
+
+
+
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
